@@ -1,7 +1,3 @@
-Based on the provided paper and the code files, here is a suggested structure for the README file for your GitHub repository:
-
----
-
 # Vibration Vision: Real-Time Machinery Fault Diagnosis with Event Cameras
 
 ## Overview
@@ -90,10 +86,10 @@ This work is funded by Marie Sklodowska-Curie Action Horizon 2020 (Grant agreeme
 
 For questions or collaborations, please contact:
 
-- Muhammad Aitsam: [Email]
-- Gaurvi Goyal: [Email]
-- Chiara Bartolozzi: [Email]
-- Alessandro Di Nuovo: [Email]
+- Muhammad Aitsam: m.aitsam@shu.ac.uk
+- Gaurvi Goyal
+- Chiara Bartolozzi
+- Alessandro Di Nuovo
 
 ---
 
