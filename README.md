@@ -66,7 +66,7 @@ Below is the setup used for the experiments discussed in the paper:
 The EBFM system was able to effectively measure frequencies and detect unusual machine behavior in abnormal conditions. The difference between the calculated and measured frequencies was minimal, highlighting the system's precision.
 
 
-CSV files of results are in the data folder.
+CSV results files are in the data folder.
 
 ## References
 
@@ -79,8 +79,6 @@ Aitsam, M., Goyal, G., Bartolozzi, C., & Di Nuovo, A. (2024). *Vibration Vision:
 This project is licensed under the MIT License.
 
 ## Acknowledgement
-
-\section*{Acknowledgment}
 
 This work is funded by Marie Sklodowska-Curie Action Horizon 2020 (Grant agreement No. 955778) for the project 'Personalized Robotics as Service Oriented Applications (PERSEO)'. The authors would like to thank lab members for their help and support. For open access, the author has applied a Creative Commons Attribution (CC BY) license to any Author Accepted Manuscript version arising from this submission.
 
