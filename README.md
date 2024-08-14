@@ -90,7 +90,3 @@ For questions or collaborations, please contact:
 - Gaurvi Goyal
 - Chiara Bartolozzi
 - Alessandro Di Nuovo
-
----
-
-This README provides a comprehensive guide to understanding and using the EBFM system, while also being clear and visually appealing for users who visit your GitHub repository.
