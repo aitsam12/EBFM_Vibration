@@ -59,7 +59,7 @@ This command will display the real-time vibration frequency map and save the vis
 The system has been tested on various industrial setups, demonstrating its ability to detect subtle vibrational anomalies under different operational conditions. For more details, refer to the **Experiment Setup and Evaluation** section in the paper.
 Below is the setup used for the experiments discussed in the paper:
 
-![Experiment Setup](images/exp2setup.png)
+![Experiment Setup](images/combined_image.png)
 
 ## Results
 
