@@ -31,7 +31,10 @@ This repository contains the implementation of the Event-Based Frequency Mapping
 - NumPy
 - metavision_sdk_ui (for event camera interface)
 
-### Installation
+
+### Usage
+
+To run the vibration monitoring system, use the following command:
 
 Clone the repository:
 
@@ -39,16 +42,6 @@ Clone the repository:
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 ```
-
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-### Usage
-
-To run the vibration monitoring system, use the following command:
 
 ```bash
 python main.py --input path/to/input --output path/to/output
@@ -69,19 +62,29 @@ This command will display the real-time vibration frequency map and save the vis
 
 The system has been tested on various industrial setups, demonstrating its ability to detect subtle vibrational anomalies under different operational conditions. For more details, refer to the **Experiment Setup and Evaluation** section in the paper.
 
+
 ## Results
 
 The EBFM system was able to effectively measure frequencies and detect unusual machine behavior in abnormal conditions. The difference between the calculated and measured frequencies was minimal, highlighting the system's precision.
+
+
+CSV files of results are in the data folder.
 
 ## References
 
 For further reading and citations, please refer to the original paper:
 
-Aitsam, M., Goyal, G., Bartolozzi, C., & Di Nuovo, A. (2024). *Vibration Vision: Real-Time Machinery Fault Diagnosis with Event Cameras*. In *Proceedings of ECCV*.
+Aitsam, M., Goyal, G., Bartolozzi, C., & Di Nuovo, A. (2024). *Vibration Vision: Real-Time Machinery Fault Diagnosis with Event Cameras*. In *Proceedings of ECCV-NeVi Workshop*.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
+
+## Acknowledgement
+
+\section*{Acknowledgment}
+
+This work is funded by Marie Sklodowska-Curie Action Horizon 2020 (Grant agreement No. 955778) for the project 'Personalized Robotics as Service Oriented Applications (PERSEO)'. The authors would like to thank lab members for their help and support. For open access, the author has applied a Creative Commons Attribution (CC BY) license to any Author Accepted Manuscript version arising from this submission.
 
 ## Contact
 
